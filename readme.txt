@@ -5,3 +5,4 @@ dev branch
 first
 second
 master third
+dev fourth
