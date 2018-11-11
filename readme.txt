@@ -4,3 +4,4 @@ Git tracks changes of files.
 dev branch
 first
 second
+master third
